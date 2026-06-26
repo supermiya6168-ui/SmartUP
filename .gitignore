@@ -1,0 +1,22 @@
+# Sensitive environment files
+.env
+dags/.env
+
+# Logs
+logs/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Airflow generated files
+airflow.db
+airflow-webserver.pid
+standalone_admin_password.txt
+
+# OS files
+.DS_Store
+Thumbs.db
