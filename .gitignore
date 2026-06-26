@@ -1,7 +1,3 @@
-# Sensitive environment files
-.env
-dags/.env
-
 # Logs
 logs/
 *.log
